@@ -1,0 +1,19 @@
+body {
+    background-color: #555;
+}
+
+h1 {
+    color: rgba(200,200, 200, .9);
+}
+h3 {
+    color: rgba(200,200, 200, .9);
+}
+
+form {
+    margin: 0 20vw;
+    /* width: 25vw; */
+}
+
+label {
+    color: rgba(200,200, 200, .9);
+}
